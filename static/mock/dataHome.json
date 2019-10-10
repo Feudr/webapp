@@ -1,0 +1,165 @@
+{
+    "data": [
+        {
+            "city": "北京",
+            "sceneryList1": [
+                {
+                    "id": "01",
+                    "imgUrl": "http://localhost:8080/static/images/item1.webp.jpg",
+                    "text": "景点门票"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "http://localhost:8080/static/images/item1.webp.jpg",
+                    "text": "必游榜单"
+                },
+                {
+                    "id": "03",
+                    "imgUrl": "http://localhost:8080/static/images/item1.webp.jpg",
+                    "text": "夏日玩水"
+                },
+                {
+                    "id": "04",
+                    "imgUrl": "http://localhost:8080/static/images/item1.webp.jpg",
+                    "text": "主题乐园"
+                },
+                {
+                    "id": "05",
+                    "imgUrl": "http://localhost:8080/static/images/item1.webp.jpg",
+                    "text": "动植物园"
+                },
+                {
+                    "id": "06",
+                    "imgUrl": "http://localhost:8080/static/images/item1.webp.jpg",
+                    "text": "故宫"
+                },
+                {
+                    "id": "07",
+                    "imgUrl": "http://localhost:8080/static/images/item1.webp.jpg",
+                    "text": "一日游"
+                },
+                {
+                    "id": "08",
+                    "imgUrl": "http://localhost:8080/static/images/item1.webp.jpg",
+                    "text": "公园"
+                }
+            ],
+            "sceneryList2": [
+                {
+                    "id": "01",
+                    "imgUrl": "http://localhost:8080/static/images/item1.webp.jpg",
+                    "title": "游乐场"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "http://localhost:8080/static/images/item1.webp.jpg",
+                    "title": "全部玩乐"
+                }
+            ],
+            "hotList": [
+                {
+                    "id": "001",
+                    "imgUrl": "http://localhost:8080/static/images/scenery1.jpg",
+                    "title": "神农架",
+                    "price": "20"
+                },
+                {
+                    "id": "002",
+                    "imgUrl": "http://localhost:8080/static/images/sanxia.jpg",
+                    "title": "三峡",
+                    "price": "20"
+                },
+                {
+                    "id": "003",
+                    "imgUrl": "http://localhost:8080/static/images/scenery3.jpg",
+                    "title": "北戴河观日",
+                    "price": "20"
+                },
+                {
+                    "id": "004",
+                    "imgUrl": "http://localhost:8080/static/images/scenery4.jpg",
+                    "title": "京郊露营天堂",
+                    "price": "20"
+                },
+                {
+                    "id": "005",
+                    "imgUrl": "http://localhost:8080/static/images/scenery5.jpg",
+                    "title": "凤凰古城",
+                    "price": "20"
+                },
+                {
+                    "id": "006",
+                    "imgUrl": "http://localhost:8080/static/images/scenery6.jpg",
+                    "title": "井冈山",
+                    "price": "20"
+                },
+                {
+                    "id": "007",
+                    "imgUrl": "http://localhost:8080/static/images/scenery7.jpg",
+                    "title": "金沙湾",
+                    "price": "20"
+                }
+            ],
+            "likeList": [
+                {
+                    "id": "01",
+                    "imgUrl": "http://localhost:8080/static/images/like1.jpg",
+                    "text": "带着相机去旅行，圆一场青海梦",
+                    "comments": "1314条评论",
+                    "price": "￥299"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "http://localhost:8080/static/images/like2.jpg",
+                    "text": "陪你去三亚，陪你去海角天涯",
+                    "comments": "1314条评论",
+                    "price": "￥299"
+                },
+                {
+                    "id": "03",
+                    "imgUrl": "http://localhost:8080/static/images/like3.jpg",
+                    "text": "海鸥遍地的人间仙境--海驴岛",
+                    "comments": "1314条评论",
+                    "price": "￥299"
+                },
+                {
+                    "id": "04",
+                    "imgUrl": "http://localhost:8080/static/images/like4.jpg",
+                    "text": "埃及沧海桑田，都是一转眼",
+                    "comments": "1314条评论",
+                    "price": "￥299"
+                },
+                {
+                    "id": "05",
+                    "imgUrl": "http://localhost:8080/static/images/like5.jpg",
+                    "text": "别样厦门之遇见人间烟火气",
+                    "comments": "1314条评论",
+                    "price": "￥299"
+                }
+            ],
+            "vacationList": [
+                {
+                    "id": 1,
+                    "imgUrl": "http://localhost:8080/static/images/vacation1.jpg",
+                    "title": "唯美桂林",
+                    "text": "文艺范旅游"
+                },
+                {
+                    "id": "2",
+                    "imgUrl": "http://localhost:8080/static/images/vacation2.jpg",
+                    "title": "东京之旅",
+                    "text": "拥抱喧嚣 偶遇文艺 "
+                },
+                {
+                    "id": "3",
+                    "imgUrl": "http://localhost:8080/static/images/vacation3.jpg",
+                    "title": "黄鹤楼",
+                    "text": "孤帆远影碧空尽 唯见长江天际流"
+                }
+            ]
+        },
+        {
+            "city": "上海"
+        }
+    ]
+}
